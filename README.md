@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on websites and artificial intelligence. 
 - 📫 How to reach me, send an email to moyagabriel14@gmail.com
-- ⚡ Fun fact: Got fired, trying to create my own stuff. 
+- ⚡ Fun fact: I am a business manager, looking forward to develop my own apps. 
 
 <!---
 Jugador7/Jugador7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
